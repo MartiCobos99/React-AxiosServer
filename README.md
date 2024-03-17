@@ -12,4 +12,4 @@ State management demo for React components
 - useState: [https://react.dev/reference/react/useState#usestate [ ↗ ] ](https://react.dev/reference/react/useState#usestate)
 - forms: [https://react.dev/reference/react-dom/components/form [ ↗ ] ](https://react.dev/reference/react-dom/components/form)
 
-URL SITE: https://deploy-preview-1--axiosmanel.netlify.app 
+URL SITE: https://animated-squirrel-26e756.netlify.app/
